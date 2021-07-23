@@ -1,0 +1,20 @@
+.Parent > div{
+    background-color: aquamarine;
+    width: 100px;
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 75px;
+ }
+.Parent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:flex-start;
+    justify-content:space-around;
+}
+#five {
+
+    flex-grow: 3;
+    flex-shrink: 3;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+.lorem
+{
+    
+    width: 50%;
+}
+.newclass
+{
+    background-color:palegoldenrod;
+}
+.lorem > p 
+{ 
+    cursor: pointer;
+    font-size: larger;
+}
+.lorem > p:hover
+{
+  color:midnightblue;
+}
+.lorem:hover
+{
+    background-color: navajowhite;
+}
